@@ -1,0 +1,6 @@
+numpy==1.26.4
+torch
+monai==1.2.0
+einops
+nibabel
+scipy
