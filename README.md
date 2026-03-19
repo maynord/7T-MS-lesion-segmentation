@@ -46,9 +46,9 @@ These correspond to models trained at different resolutions:
 - MONAI 1.2.0
 - PyTorch
 - NumPy 1.26.x
-- `einops`
-- `nibabel`
-- `scipy`
+- einops
+- nibabel
+- scipy
 
 Install:
 
