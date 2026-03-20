@@ -18,7 +18,7 @@ This repository provides pretrained 3D WML lesion-segmentation models for 7t MRI
 
 Model weights are hosted externally due to file size.
 
-**Download (Google Drive):**  
+**Download:**  
 `https://drive.google.com/file/d/1_GF_WZlDSQppsC42_nMFtWuPXzgB2tWa/view?usp=sharing`
 
 The archive contains:
@@ -53,7 +53,7 @@ These correspond to models trained at different resolutions:
 Install:
 
 ```bash
-pip install -r requirements_final_pass.txt
+pip install -r requirements.txt
 ```
 
 MONAI 1.2.0 is not compatible with NumPy 2.x for this workflow, so NumPy is pinned below 2.0.
